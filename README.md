@@ -1,6 +1,6 @@
 # ML-Based Controller for TORCS
 
-This repository contains an ML-based controller for the TORCS (The Open Racing Car Simulator) racing simulator, developed as the AI 2002 final project by Salman Khan, Maryum Tanvir, and Mavra Mehak (FAST-NU).
+This repository contains an ML-based controller for the TORCS (The Open Racing Car Simulator) racing simulator, developed as the AI 2002 final project.
 
 The objective of this project is to optimize race performance by creating a controller that uses telemetry data and machine learning (Behavior Cloning) to drive the car.
 
